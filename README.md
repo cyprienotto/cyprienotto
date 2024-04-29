@@ -21,3 +21,45 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ottodpc&show_icons=true&locale=en&layout=compact" alt="ottodpc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ottodpc&" alt="ottodpc" /></p>
+
+## Link
+
+- [Github page](https://ottodpc.github.io/ottodpc/)
+
+## Quick start
+
+```
+git clone https://github.com/ottodpc/ottodpc
+
+cd ottodpc && yarn install
+
+yarn dev
+```
+
+## Tech Stack
+
+- [Next.js (v14.2.3)](https://nextjs.org/)
+- [Node.js (v20.10.0)](https://nodejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://react.dev/)
+- [Ant Design](https://ant.design/)
+
+## Folder Structure
+
+```
+├───.github
+│   └───workflows
+├───public
+│   └───assets
+│       └───img
+└───src
+    ├───app
+    ├───components
+    └───utils
+```
+
+## Available commands
+
+- `dev`: Starts the development server
+- `build`: build Next.js app for production
+- `lint`: Lints the code using ESLint
