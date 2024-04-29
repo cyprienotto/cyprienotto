@@ -30,7 +30,6 @@ export const ExperienceCard = ({
   competences?: string[];
   descriptionText?: string[];
 }) => {
-  console.log("type", type);
   return (
     <div className="grid max-w-[100%] md:max-w-[80%]">
       <Space direction="vertical">

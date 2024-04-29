@@ -57,11 +57,15 @@ export const CONSTANTES = {
       ],
     },
     {
-      theme: "Conteneurisation et orchestration",
+      theme: "Conteneurisation & orchestration",
       competences: ["Docker", "Kubernetes", "Helm", "Docker Swarm"],
     },
     {
-      theme: "Automatisation et configuration",
+      theme: "Messagerie distribuée",
+      competences: ["Apache Kafka", "NATS", "RabbitMQ"],
+    },
+    {
+      theme: "Automatisation & configuration",
       competences: ["Git", "Jenkins", "GitLab CI/CD", "Github CI/CD"],
     },
     {
@@ -69,7 +73,7 @@ export const CONSTANTES = {
       competences: ["Git", "Jenkins", "GitLab CI/CD", "Github CI/CD"],
     },
     {
-      theme: "Observabilité et surveillance",
+      theme: "Observabilité & surveillance",
       competences: [
         "Prometheus",
         "Grafana",
@@ -79,7 +83,7 @@ export const CONSTANTES = {
       ],
     },
     {
-      theme: "Réseaux et infra",
+      theme: "Réseaux & infra",
       competences: [
         "TCP/IP",
         "Load Balancing",
