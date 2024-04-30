@@ -43,6 +43,7 @@ yarn dev
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://react.dev/)
 - [Ant Design](https://ant.design/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 ## Folder Structure
 
