@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ottodpc" alt="ottodpc" /></a> </p>
 
 
-🔭 I’m currently working on [ALKWELO](https://alkwelo.app/en)
+🔭 I’m currently at [La Sorbonne](https://www.sorbonne-universite.fr)
 
 
 <img src="https://i.giphy.com/media/S3Pe5NZqgmE8Tl3NI5/giphy-downsized-large.gif" width="200"/>
