@@ -1,22 +1,23 @@
-import type { Metadata } from "next";
+import "../styles/global.css";
 import { Inter } from "next/font/google";
-import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata: Metadata = {
-  title: "OTTO Cyprien",
-  description: "Personal github page - OTTO Dieu-Puissant Cyprien",
+export const metadata = {
+  title: "OTTO Cyprien - Développeur Full-Stack",
+  description: "CV de OTTO Cyprien, Développeur Full-Stack et DevOps.",
 };
 
 export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode;
-}>) {
+}) {
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <html lang="fr">
+      <body className={inter.className}>
+        <div className="container mx-auto px-4">{children}</div>
+      </body>
     </html>
   );
 }
